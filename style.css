@@ -96,3 +96,11 @@ body {
   color: white;
   transition: 0.3s;
 }
+.nav-item {
+  display: inline-block;
+}
+#aa-link {
+  text-decoration: none;
+  color: #9d9d9d;
+  margin-left: 25px;
+}
