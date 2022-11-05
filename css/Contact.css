@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+header {
+  padding-top: 6vh;
+  padding-bottom: 6vh;
+}
+.lists {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 60px;
+}
+.links {
+  text-decoration: none;
+  color: #9d9d9d;
+}
+#a {
+  text-align: center;
+  margin-left: 270px;
+}
+.links:hover {
+  color: black;
+}
+#link {
+  font-family: Cormorant Garamond, serif;
+  font-size: 30px;
+}
+.page-item {
+  color: #777777;
+  font-family: Frank Ruhl Libre;
+}
+#col1 {
+  padding-left: 230px;
+  margin-top: 3px;
+  line-height: 30px;
+}
+.col {
+  height: 500px;
+}
+.inputs {
+  padding: 10px, 50px, 5px, 50px;
+  width: 500px;
+  line-height: 1.5;
+  padding: 10px;
+  display: block;
+  color: #636363;
+  margin-bottom: 25px;
+  align-items: center;
+}
+label {
+  font-family: Frank Ruhl Libre, serif;
+  color: #777777;
+  fill: #777777;
+  font-size: 16px;
+  font-weight: 400;
+}
+#uname {
+  height: 100px;
+}
+.btn-item {
+  border: 1px black solid;
+  background-color: black;
+  font-family: "Courier New", Courier, monospace;
+  color: #fff;
+  padding: 20px;
+  width: 120px;
+  margin-bottom: 60px;
+}
+.btn-item:hover {
+  background-color: white;
+  color: rgb(46, 45, 45);
+  transition: 0.3s;
+}
+#img-item {
+  margin-right: 140px;
+}
+
+body {
+  overflow-x: hidden;
+}
+#col2 {
+  margin-top: 40px;
+}
+.dropdown {
+  display: inline-block;
+  margin-left: 30px;
+}
