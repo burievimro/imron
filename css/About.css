@@ -35,6 +35,7 @@ header {
   align-items: center;
   background-size: cover;
   display: block;
+  background-size: cover;
 }
 .h1-item {
   font-size: 57px;
